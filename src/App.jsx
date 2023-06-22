@@ -1,12 +1,7 @@
-import React from 'react';
 import TypingAnimation from './TypingAnimation';
 
 const App = () => {
-	return (
-		<div>
-			<TypingAnimation />
-		</div>
-	);
+	return <TypingAnimation />;
 };
 
 export default App;

@@ -49,7 +49,7 @@ const TypingAnimation = () => {
 			typingInstance.destroy();
 		};
 	}, []);
-	return <span style={{ fontSize: '10rem' }} ref={typingRef}></span>;
+	return <span ref={typingRef}></span>;
 };
 
 export default TypingAnimation;
