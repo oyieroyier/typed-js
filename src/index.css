@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Expanded&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Stint Ultra Expanded', cursive;
+	color: #d6f5e7;
+}
+
+body {
+	background-color: #061810;
+}
+strong {
+	color: #c43173;
+}
+
+.emphasis {
+	font-weight: bold;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
